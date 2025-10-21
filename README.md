@@ -47,34 +47,17 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-💼 Tech Toolbox
+---
 
-<p>
-  <a href="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white">
-    Flutter
-  </a><br>
+### 💼 Tech Toolbox
 
-  <a href="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
-    Dart
-  </a><br>
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)  
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)  
+[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)  
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
+[![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)  
+[![Vscode](https://img.shields.io/badge/VScode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)](https://img.shields.io/badge/VScode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
-  <a href="https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black">
-    Firebase
-  </a><br>
+---
 
-  <a href="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
-    Figma
-  </a><br>
-
-  <a href="https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white">
-    Git
-  </a><br>
-
-  <a href="https://img.shields.io/badge/VScode-0078D4?style=flat&logo=visual-studio-code&logoColor=white">
-    VS Code
-  </a>
-</p>
-
-<hr>
-
-<h3>🔥 What I Do</h3>
+### 🔥 What I Do
