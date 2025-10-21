@@ -29,7 +29,7 @@
 - 🧠 Also a **Cyber Security Engineer**, focused on protecting systems and improving security awareness.  
 - 🌱 Currently learning **Full Stack Development** to expand my skillset.  
 - 🧩 I enjoy solving problems and turning ideas into digital experiences.  
-- 💬 Connect with me: [**Telegram**](https://t.me/) | [**LinkedIn**](https://linkedin.com/in/)
+- 💬 Connect with me:  [**LinkedIn**](https://img.shields.io/badge/LinkedIn-SalahAhmed-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/salah-ahmed-rezq-b84230376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
 ---
 
