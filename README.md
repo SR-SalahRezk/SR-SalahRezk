@@ -19,7 +19,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=salah1ahmed2rezq3-sketch&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsalah1ahmed2rezq3-sketch&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 [![Telegram](https://img.shields.io/badge/Telegram-@SalahAhmed-grey?style=flat&logo=telegram)](https://t.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SalahAhmed-blue?style=flat&logo=linkedin)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SalahAhmed-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/salah-ahmed-rezq-b84230376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 <br>
 </div>
 
