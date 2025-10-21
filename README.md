@@ -48,14 +48,34 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ```dart
-// My ToolBox
+<h3>💼 Tech Toolbox</h3>
 
-class About extends Me { 
-  const myTools = {  
-    "Frontend" : { "HTML", "CSS", "JavaScript", "React" },
-    "Backend" : { "Node.js" },
-    "Programming" : { "C++", "Python" },
-    "Security" : { "Linux", "Network Security", "Ethical Hacking" },
-    "Tools" : { "VSCode", "Git", "Figma" }
-  };
-}
+<p>
+  <a href="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white">
+    Flutter
+  </a><br>
+
+  <a href="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
+    Dart
+  </a><br>
+
+  <a href="https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black">
+    Firebase
+  </a><br>
+
+  <a href="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
+    Figma
+  </a><br>
+
+  <a href="https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white">
+    Git
+  </a><br>
+
+  <a href="https://img.shields.io/badge/VScode-0078D4?style=flat&logo=visual-studio-code&logoColor=white">
+    VS Code
+  </a>
+</p>
+
+<hr>
+
+<h3>🔥 What I Do</h3>
