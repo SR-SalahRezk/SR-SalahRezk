@@ -57,6 +57,7 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
 [![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)  
 [![Vscode](https://img.shields.io/badge/VScode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)](https://img.shields.io/badge/VScode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+###what I Do
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
