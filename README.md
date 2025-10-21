@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=1000&color=F39C12&center=true&vCenter=true&width=550&lines=👋+Hi,+I'm+Salah+Ahmed!;💻+Front-End+Developer;🛡️+Cyber+Security+Engineer;🚀+Always+Learning+and+Building" alt="Typing SVG" />
+
+</div>
+
+---
+
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/salah1ahmed2rezq3-sketch" alt="Hello Coders" width="60%"/> <br>
@@ -11,7 +19,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salah1ahmed2rezq3-sketch&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsalah1ahmed2rezq3-sketch&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SalahAhmed-grey?style=flat&logo=telegram)](https://t.me/) <br>
+[![Telegram](https://img.shields.io/badge/Telegram-@SalahAhmed-grey?style=flat&logo=telegram)](https://t.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SalahAhmed-blue?style=flat&logo=linkedin)](https://linkedin.com/in/)
+<br>
 </div>
 
 ---
@@ -22,6 +32,7 @@
 - 🧠 Also a **Cyber Security Engineer**, focused on protecting systems and improving security awareness.  
 - 🌱 Currently learning **Full Stack Development** to expand my skillset.  
 - 🧩 I enjoy solving problems and turning ideas into digital experiences.  
+- 💬 Connect with me: [**Telegram**](https://t.me/) | [**LinkedIn**](https://linkedin.com/in/)
 
 ---
 
